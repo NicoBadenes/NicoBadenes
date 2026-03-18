@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/NicoBadenes/NicoBadenes/blob/main/images.jpeg" alt="banner" />
+  <img src="https://github.com/NicoBadenes/NicoBadenes/blob/main/bannergit.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nico 👋</h1>
