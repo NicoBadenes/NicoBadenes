@@ -3,7 +3,7 @@
   <img src="https://github.com/NicoBadenes/NicoBadenes/blob/main/bannergit.jpg" alt="banner" />
 </p>
 
-<h1 align="center">Nico / HyperDev ⚡</h1>
+<h1 align="center">Nico</h1>
 
 <p align="center">
   <code>build • break • rebuild</code>
