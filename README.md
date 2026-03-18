@@ -1,32 +1,28 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/NicoBadenes/NicoBadenes/blob/main/images.jpeg" alt="banner" />
+</p>
 
-# nico badenes
+<h1 align="center">Hi, I'm Nico 👋</h1>
 
-**full-stack dev** · js · py · php · css · html
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-
-</div>
+<p align="center">
+  Developer focused on building clean, functional things.
+</p>
 
 ---
 
-```javascript
-const nico = {
-  rol:   "full-stack developer",
-  stack: ["JavaScript", "Python", "PHP", "HTML", "CSS"],
-  mood:  "siempre buildando algo 🚧"
-}
-```
+## 🧠 About Me
+
+- 💻 I build web projects and experiment with different tech
+- ⚙️ Interested in backend, systems, and low-level concepts
+- 🚀 Currently improving my skills in development and security
+- 📍 Based in Argentina
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-### 🚧 proyectos próximamente
-
-*while (!done) { keepBuilding(); }*
-
-</div>
+```txt
+Languages:    Python, JavaScript, C
+Web:          HTML, CSS
+Tools:        Git, Linux
